@@ -8,7 +8,7 @@ import android.widget.ListView;
 
 public class MeActivity extends Activity {
 	private ListView melistview;
-	private static String[] arr = {"我读...","我听...","我看...","我评","我的日记","我的资料","小组"};
+	private static String[] arr = {"我读...","我听...","我看...","我评.......","我的日记","我的资料","小组"};
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
